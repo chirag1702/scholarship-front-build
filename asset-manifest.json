@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.30c6e314.css",
-    "main.js": "/static/js/main.dbc746f9.js",
+    "main.css": "/static/css/main.b051773f.css",
+    "main.js": "/static/js/main.f0fadc23.js",
     "static/media/search.gif": "/static/media/search.d1c27023517e9caee66d.gif",
     "static/media/multi.gif": "/static/media/multi.f054cd22d0d9fb6036aa.gif",
     "static/media/support.gif": "/static/media/support.be719ba5ac45284d2c57.gif",
@@ -27,16 +27,16 @@
     "static/media/graduate.svg": "/static/media/graduate.347601bc79e89e4b9eaecd3e309af5e8.svg",
     "static/media/phone-operator.svg": "/static/media/phone-operator.5e215c07c2ea69c53dbcc99a6825c0f8.svg",
     "static/media/university.svg": "/static/media/university.79872296556418253ca4b3289f856112.svg",
-    "index.html": "/index.html",
     "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "index.html": "/index.html",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
-    "main.30c6e314.css.map": "/static/css/main.30c6e314.css.map",
-    "main.dbc746f9.js.map": "/static/js/main.dbc746f9.js.map"
+    "main.b051773f.css.map": "/static/css/main.b051773f.css.map",
+    "main.f0fadc23.js.map": "/static/js/main.f0fadc23.js.map"
   },
   "entrypoints": [
-    "static/css/main.30c6e314.css",
-    "static/js/main.dbc746f9.js"
+    "static/css/main.b051773f.css",
+    "static/js/main.f0fadc23.js"
   ]
 }
